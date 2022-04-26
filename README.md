@@ -1,6 +1,7 @@
 # PlanetSimulator
 
 ```bash
+pip install pygame
 python tutorial.py
 ```
 
